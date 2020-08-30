@@ -4,7 +4,8 @@ Backround Image
 <html>  
 <head>  
 <style>  
-body {  
+body
+{  
 background-image: url("paper1.gif");
 margin-left:100px;
 }  
