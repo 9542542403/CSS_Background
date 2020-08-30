@@ -1,17 +1,18 @@
 # CSS_Backround
 Backround Image
+<html>
+<head>
+<style>
+body {
+  background-image: url("paper.gif");
+}
+</style>
+</head>
+<body>
 
-<html>  
-<head>  
-<style>  
-body
-{  
-background-image: url("paper1.gif");
-margin-left:100px;
-}  
-</style>  
-</head>  
-<body>  
-<h1>Hello Javatpoint.com</h1>  
-</body>  
+<h1>Hello World!</h1>
+
+<p>Background image !</p>
+
+</body>
 </html>
